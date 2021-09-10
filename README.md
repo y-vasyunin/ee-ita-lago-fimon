@@ -1,7 +1,4 @@
-# ee-ita-lago-fimon
-Google Earth Engine code for a study on the eutrophocation in Italia
-
-
+# Monitor aquatic plants from space: the case of Lake Fimimon
 
 This code is used in an publication on eutrophication in Italia (Lago di Fimon). It is developed to be run inside the [Google Earth Engine](https://earthengine.google.com/) platform. You need to have both Google (Gmail) and Google Earth Engine accounts in order to use it.
 
