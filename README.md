@@ -24,5 +24,5 @@ The script (`code.js`) is divided into distinct sections:
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed).
 
